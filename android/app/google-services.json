@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141737369344",
+    "project_id": "often127-notifications",
+    "storage_bucket": "often127-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141737369344:android:9f6bd279e6f86beee91de5",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141737369344-75cchuu7aem2up0of8cbjklp21dlm60f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFV5K_mw_HaTi_mbPtUJbakEiWjGqJWCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141737369344-75cchuu7aem2up0of8cbjklp21dlm60f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
